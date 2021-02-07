@@ -1,2 +1,2 @@
-# Nuxt-YouTube-clon
+# Nuxt-YouTube-clone
 Youtube clone with  Nuxtjs
